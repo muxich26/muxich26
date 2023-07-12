@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @muxich26, my name is Muhammad
 
-- 👀 I’m interested in programming in Python(bots, server side of sites(backend), etc.) and game development
-
-- 🌱 I’m currently learning Python/C++/Godot/Backend Technologies
+- 👀 I’m interested in programming in Python(bots, server side of sites(backend), etc.) and game development          
+                                                                                                                                
+- 🌱 I’m currently learning Python/C++/Godot/Backend Technologies         
 
 - 💞️ I’m looking to collaborate on development of bots(Telegram)/sites, development and testing video games
 
