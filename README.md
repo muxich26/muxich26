@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muxich26, my name is Muhammad 
+- 👋 Hi, I’m @muxich26, my name is Muhammad
 
 - 👀 I’m interested in programming in Phyton(bots, server side of sites(backend), etc.) and game development
 
